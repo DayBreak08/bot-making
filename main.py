@@ -67,3 +67,6 @@ async def daily_rename():
 # ================================
 keep_alive()
 bot.run(TOKEN)
+
+
+# 테스트용
